@@ -1,4 +1,4 @@
-# day22
+# BMI Calculator
 
 A new Flutter project.
 
